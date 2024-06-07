@@ -17,7 +17,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/cybozu/LicenseList.git", from: "0.0.0")
+        .package(url: "https://github.com/cybozu/LicenseList.git", branch: "main")
     ],
     targets: [
         .target(
