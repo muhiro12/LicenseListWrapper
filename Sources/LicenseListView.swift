@@ -13,7 +13,7 @@ public struct LicenseListView: View {
 
     public var body: some View {
         LicenseList.LicenseListView()
-            .licenseListViewStyle(.withRepositoryAnchorLink)
+            .licenseViewStyle(.withRepositoryAnchorLink)
     }
 }
 
