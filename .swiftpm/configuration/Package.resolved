@@ -1,0 +1,15 @@
+{
+  "originHash" : "4a4bdfa238907dc0ddf177e909dbfad120388b2f8caa8d91702f117e98f95b77",
+  "pins" : [
+    {
+      "identity" : "licenselist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cybozu/LicenseList.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "eeb8e5eb0ba60a5651b642132957ca69c2cfc28f"
+      }
+    }
+  ],
+  "version" : 3
+}
